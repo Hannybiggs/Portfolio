@@ -22,6 +22,6 @@ Some examples of CSS points of attention are listed below.
 The results of this project are the creation of a basic portfolio page. I was able too experiment with colors, styles, etc. to create a cohesive webpage. As my portfolio expands I would like to revisit this project and create more interesting elements in the webpage. I will be adding more content in terms of text as well as creating subpages to connecting project pages as my portfolio expands.
 
 
- ![Website Screenshot 1] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png?raw=true)
+https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png?raw=true
 
- ![Website Screenshot 2] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png?raw=true)
+https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png?raw=true
