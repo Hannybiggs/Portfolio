@@ -20,13 +20,8 @@ Some examples of CSS points of attention are listed below.
  
  ## Results & goals for the future
 The results of this project are the creation of a basic portfolio page. I was able too experiment with colors, styles, etc. to create a cohesive webpage. As my portfolio expands I would like to revisit this project and create more interesting elements in the webpage. I will be adding more content in terms of text as well as creating subpages to connecting project pages as my portfolio expands.
- 
-  ## Adjusted website:
- ![Adjusted website](https://github.com/Hannybiggs/Horiseon-Accessibility-Page/blob/master/Assets/01-html-css-git-homework-demo.png?raw=true "Adjusted Website")
-
- ## Select Images of Website
 
 
- ![Website Screenshot 1] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png)
+ ![Website Screenshot 1] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png?raw=true)
 
- ![Website Screenshot 2] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png)
+ ![Website Screenshot 2] (https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png?raw=true)
