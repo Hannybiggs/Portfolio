@@ -25,6 +25,3 @@ The results of this project are the creation of a basic portfolio page. I was ab
 <img src= "https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage1.png?raw=true">
 
 <img src= "https://github.com/Hannybiggs/Portfolio/blob/main/Develop/Assets/images/readmeimage2.png?raw=true">
-
-
- <img src="./assets/images/yodobashi2.jpg" alt="Yodobashi Tokyo" style="width:100%">

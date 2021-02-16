@@ -1,12 +1,12 @@
 * {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
   
 :root {
-    --black: #000000;
-    --redCoral: #fc4445;
-    --aquaish: #73daf3;
-    --lighterpurpleish: #72a6e0;
+  --black: #000000;
+  --redCoral: #fc4445;
+  --aquaish: #73daf3;
+  --lighterpurpleish: #72a6e0;
 }
 
 header {
@@ -36,7 +36,7 @@ h1 {
     font-size: 45px;
     font-weight: bold;
     letter-spacing: 7px;
-  }
+}
 
 header p {
   font-size: 23px;
@@ -73,7 +73,6 @@ body {
     font-family: Arial;
   }
 
-
 h2{
   font-size: 35px;
   padding: 25px 0px 25px 0px;
@@ -94,7 +93,6 @@ p {
   padding-top: 20px;
   line-height: 130%;
 }
-  
 
 main {
   max-width: 1000px;
@@ -118,12 +116,12 @@ main {
   border:var(--black) 1px solid;
   padding: 30px
 }
+
 .mainimage:hover {
   box-shadow: inset 0px 0px 8px var(--lighterpurpleish), 0 0 15px var(--lighterpurpleish);
   cursor: pointer;
   opacity: 0.6;
 }
-
 
 .work {
   margin: 8px -16px;
@@ -145,34 +143,33 @@ main {
   /* Create three equal columns that floats next to each other */
 
 .hovertext {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    visibility: hidden;
-    opacity: 0;
-    font-size: 25px;
-    padding: 80px;
-    font-weight: lighter;
-    letter-spacing: 6px;
-    color: var(--black);
-    text-align: center;
-  }
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  visibility: hidden;
+  opacity: 0;
+  font-size: 25px;
+  padding: 80px;
+  font-weight: lighter;
+  letter-spacing: 6px;
+  color: var(--black);
+  text-align: center;
+}
   /* Create the properties for the text that appear when you hover over the images */
 
-  .hovertext span{
-    background-color: var(--aquaish);
-    border:var(--black) 1px solid;
-  }
+.hovertext span{
+  background-color: var(--aquaish);
+  border:var(--black) 1px solid;
+}
   /* Sets background color for hover text so it shows up better */
   
 .column:hover .hovertext {
-    visibility: visible;
-    opacity: 1;
-  }
+  visibility: visible;
+  opacity: 1;
+}
   
-
 .work:after {
   content: "";
   display: table;
@@ -180,21 +177,17 @@ main {
 }
   /* Clear floats after rows */ 
 
-
-
 .content {
   padding: 10px;
   border:var(--black) 1px solid;
   padding: 30px
 }
   
-
 .content:hover {
   box-shadow: inset 0px 0px 8px var(--lighterpurpleish), 0 0 15px var(--lighterpurpleish);
   opacity: 0.6;
   cursor: pointer;
 }
-
 
 footer {
    padding: 40px;
